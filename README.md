@@ -2,6 +2,8 @@
 
 A full-stack Notice Board application built with Next.js, Prisma, and MySQL (TiDB Cloud). Supports complete create, read, update, and delete operations with server-side validation, priority-based ordering, and responsive design.
 
+# Live : "https://reno-notice-board-lovat.vercel.app/"
+# Git Repo : "https://github.com/Sanjeetkumarrao/reno-notice-board" 
 ---
 
 ## Tech Stack
